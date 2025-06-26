@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit of F&D Hospitality site"
+git branch -M main
+git remote add origin https://github.com/flipanddave/fnd-hospitality.git
+git push -u origin main
